@@ -15,4 +15,4 @@ Q4: What movie got the lowest popularity? what's its genre?
 The United States, Thread has the lowest rate in our dataset and it has genres of music, drama, war, sci-fi and history.
 
 Q5: What year has the most filmed movies?
-Year 2020 has the highest filming rate in our dataset.
+Year 2020 has the highest filming rate in our dataset. 
